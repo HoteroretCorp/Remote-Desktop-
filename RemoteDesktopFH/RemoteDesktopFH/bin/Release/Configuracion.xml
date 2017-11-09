@@ -1,20 +1,3 @@
 <CONFIGURACION>
-    <CONEXION NOMBRE="Auditoria" IP="10.114.98.31" PASS="Octubre2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="Pruebas" IP="10.114.98.30" PASS="Noviembre2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="Mercurial" IP="192.168.0.136" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Aranda" IP="Aranda.comerssia.com" PASS="Octubre2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="Azure Leo" IP="10.130.80.4" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Azure JP" IP="10.131.0.4" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Azure David" IP="10.132.0.4" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Azure Willy" IP="10.133.0.4" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Caja" IP="192.168.0.145" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Caja 2" IP="192.168.0.130" PASS="A123456a" USER="Administrator"/>
-    <CONEXION NOMBRE="DATA02" IP="10.114.100.37" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="DATA03" IP="10.114.100.38" PASS="A123456a" USER="salvarado"/>
-    <CONEXION NOMBRE="Implementacion" IP="10.114.98.32" PASS="Noviembre2017+" USER="salvarado"/>    
-    <CONEXION NOMBRE="SRV01" IP="10.114.100.11" PASS="Marzo2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="SRV03" IP="10.114.100.13" PASS="Marzo2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="SRV06" IP="10.114.100.16" PASS="Julio2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="SRV08" IP="10.114.100.18" PASS="Agosto2017+" USER="salvarado"/>
-    <CONEXION NOMBRE="SRV09" IP="10.114.100.19" PASS="Marzo2017+" USER="salvarado"/>
+    <CONEXION NOMBRE="" IP="" PASS="" USER=""/>
 </CONFIGURACION>
