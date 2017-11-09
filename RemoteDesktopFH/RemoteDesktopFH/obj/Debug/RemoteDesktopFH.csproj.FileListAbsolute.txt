@@ -1,0 +1,28 @@
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.exe.config
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.exe
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.pdb
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csprojResolveAssemblyReference.cache
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.Properties.Resources.resources
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csproj.GenerateResource.Cache
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.exe
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.pdb
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\Interop.MSTSCLib.dll
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\AxInterop.MSTSCLib.dll
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csproj.ResolveComReference.cache
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.RemoteDesktopFH.resources
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\Interop.MSTSCLib.dll
+S:\Proyectos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.exe.config
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\Interop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csproj.ResolveComReference.cache
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.exe
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.pdb
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.exe
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\RemoteDesktopFH.pdb
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\Interop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csprojResolveAssemblyReference.cache
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.Properties.Resources.resources
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.RemoteDesktopFH.resources
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Debug\RemoteDesktopFH.csproj.GenerateResource.Cache

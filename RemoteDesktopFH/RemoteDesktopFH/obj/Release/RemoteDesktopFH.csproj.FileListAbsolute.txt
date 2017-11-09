@@ -1,0 +1,13 @@
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Release\RemoteDesktopFH.exe.config
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\Interop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\AxInterop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.csproj.ResolveComReference.cache
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Release\RemoteDesktopFH.exe
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Release\RemoteDesktopFH.pdb
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Release\Interop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\bin\Release\AxInterop.MSTSCLib.dll
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.Properties.Resources.resources
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.RemoteDesktopFH.resources
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.csproj.GenerateResource.Cache
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.exe
+D:\Sebastian\Programas\Admnistrador de Escritorios Remotos\Remote Desktop\RemoteDesktopFH\RemoteDesktopFH\obj\Release\RemoteDesktopFH.pdb
